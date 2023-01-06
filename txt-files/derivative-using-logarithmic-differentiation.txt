@@ -1,0 +1,50 @@
+Use logarithmic differentiation to find the derivative of y=x^x^2+3
+
+y equals x to the power of x squared plus 3 end exponent 
+
+Same equation in natural language 
+
+Choose from the following:
+
+a.)
+fraction numerator d y over denominator d x end fraction equals 1 over x to the power of x squared plus 3 end exponent left parenthesis 2 x ln x plus x plus 3 over x right parenthesis
+
+b.)
+fraction numerator d y over denominator d x end fraction equals space left parenthesis 2 x ln x plus x plus 3 over x right parenthesis space x to the power of x squared plus 3 end exponent
+
+c.)
+fraction numerator d y over denominator d x end fraction equals left parenthesis x squared plus 3 right parenthesis x to the power of x squared plus 2 end exponent
+
+d.)
+fraction numerator d y over denominator d x end fraction equals 2 x to the power of x squared plus 3 end exponent
+a.)Incorrect.
+It is important to remember D left square bracket ln y right square bracket equals fraction numerator y prime over y end fraction.
+
+b.)Correct.
+Apply natural logarithm to both sides:
+
+ln y equals ln left parenthesis x to the power of x squared plus 3 right parenthesis
+
+Use the property of logarithms, ln a to the power of b equals b ln a:
+
+ln y equals x squared plus 3 ln x
+
+Take the derivative of both sides:
+
+D left square bracket ln y right square bracket equals 2 x ln x plus 1 over x
+
+Evaluate both sides:
+
+D left square bracket ln y right square bracket equals fraction numerator y prime over y end fraction
+
+Substitute values:
+
+fraction numerator y prime over y end fraction equals 2 x ln x plus 1 over x
+
+Solve for fraction numerator y prime over y end fraction:
+
+fraction numerator y prime over y end fraction equals space left parenthesis 2 x ln x plus 1 over x right parenthesis space y
+
+Because y equals x to the power of x squared plus 3 end exponent, substitute x to the power of x squared plus 3 end exponent for y:
+
+fraction numerator d y over denominator d x end fraction equals space left parenthesis 2 x ln x plus 1 over x right parenthesis space x to the power of x squared plus 3 end exponent

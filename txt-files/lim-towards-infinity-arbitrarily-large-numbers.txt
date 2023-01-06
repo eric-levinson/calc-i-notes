@@ -1,0 +1,8 @@
+https://www.symbolab.com/solver/function-concavity-calculator/%5Clim_%7Bx%5Cto%5Cinfty%20%7D%5Cleft(%5Cfrac%7B%5Cleft(5x%5E%7B2%7D%2B3x-7%5Cright)%7D%7B%5Cleft(7x%5E%7B2%7D-x%2B9%5Cright)%7D%5Cright)?or=input
+
+
+Determine the limiting value of a function as x becomes arbitrarily large.
+
+  
+\lim _{x\to \infty \:}\left(\frac{\left(5x^2+3x-7\right)}{\left(7x^2-x+9\right)}\right)
+

@@ -1,0 +1,36 @@
+Consider the graph of some function y=f(x)
+
+
+graph here --- see img graph-method-1.png
+
+
+Evaluate limit as x rightwards arrow short dash 1 of f left parenthesis x right parenthesis, limit as x rightwards arrow 4 of f left parenthesis x right parenthesis, and limit as x rightwards arrow 7 of f left parenthesis x right parenthesis. 
+
+
+------
+
+
+limit as x rightwards arrow short dash 1 of f left parenthesis x right parenthesis equals 8
+limit as x rightwards arrow 4 of f left parenthesis x right parenthesis equals 3
+limit as x rightwards arrow 7 of f left parenthesis x right parenthesis space d o e s space n o t space e x i s t
+
+----
+
+
+RATIONALE
+As x gets closer to -1, f left parenthesis x right parenthesis gets closer to 8.
+
+As x gets closer to 4, f left parenthesis x right parenthesis gets closer to 3. Note that the actual value of f left parenthesis 4 right parenthesis is -3 (closed dot at x equals 4), but the limit tells us what is happening as we get closer and closer to 4, not what is happening right at 4.
+
+As x gets closer to 7 from the left (values smaller than 7), f left parenthesis x right parenthesis gets closer to 13.5. However, as x gets closer to 7 from the right (values larger than 7), f left parenthesis x right parenthesis gets closer to 6.
+
+Since f left parenthesis x right parenthesis approaches two different values as x approaches 7, we say the limit does not exist.
+
+
+
+-----
+
+CONCEPT
+ The Graph Method
+ https://app.sophia.org/spcc/calculus-i/study-guide/unit2/12779
+ 

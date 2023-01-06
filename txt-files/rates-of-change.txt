@@ -1,0 +1,24 @@
+Solve applications involving rates of change.
+
+  
+The cost function, C(x), in dollars for producing x units is given by C(x)=0.27x^2+12x+755
+
+Approximate the cost of producing the 17th unit by using the marginal cost.
+
+Choose from the following
+
+$1,037.03
+
+b.)
+$20.64
+
+c.)
+$21.18
+
+d.)
+$1,016.12
+To approximate the cost of producing the 17th unit, we can use the marginal cost, which is the rate of change of the cost function with respect to the number of units produced. In this case, the marginal cost is given by the derivative of the cost function C(x).
+
+The derivative of C(x) = 0.27x^2 + 12x + 755 is 0.54x + 12. Therefore, the marginal cost at x = 17 is 0.54 * 17 + 12 = $20.64.
+
+Therefore, the answer is (b) $20.64.

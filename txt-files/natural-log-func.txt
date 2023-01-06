@@ -1,0 +1,40 @@
+Determine the derivative of a natural logarithmic function.
+
+  
+Find the derivative of y = ln(5x^4/cos(x))
+
+Choose from the following
+
+a.)
+fraction numerator d y over denominator d x end fraction equals 4 over x minus fraction numerator 1 over denominator cos x end fraction
+
+b.)
+fraction numerator d y over denominator d x end fraction equals 4 over x plus tan x
+
+c.)
+fraction numerator d y over denominator d x end fraction equals 1 fifth plus 4 over x plus tan x
+
+d.)
+fraction numerator d y over denominator d x end fraction equals ln left parenthesis 5 right parenthesis plus 4 ln left parenthesis x right parenthesis minus ln left parenthesis cos x right parenthesis
+To find the derivative of the function y = ln(5x^4/cos(x)), we can use the chain rule.
+
+
+------------------------
+
+The chain rule states that if y = f(u) and u = g(x), then the derivative of y with respect to x is given by:
+
+dy/dx = (dy/du)(du/dx)
+
+In this case, we can let u = 5x^4 and f(u) = ln(u). Then, the derivative of y with respect to x is:
+
+dy/dx = (dy/du)(du/dx) = (1/u)(4x^3) = (1/5x^4)(4x^3) = 4x^3/5x^4 = 4/5x
+
+We can also let u = cos(x) and f(u) = 1/u. Then, the derivative of y with respect to x is:
+
+dy/dx = (dy/du)(du/dx) = (-1/u^2)(-sin(x)) = (sin(x))/(cos(x))^2 = tan(x)
+
+Therefore, the derivative of y with respect to x is:
+
+dy/dx = (4/5x) + tan(x)
+
+The correct answer is therefore (b) fraction numerator d y over denominator d x equals 4 over x plus tan x.

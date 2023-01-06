@@ -1,0 +1,7 @@
+Concavity
+
+use symbolab solver for inflection points
+
+the steps to solve will include find intervals: concave up and down
+
+pay attention to all the intervals

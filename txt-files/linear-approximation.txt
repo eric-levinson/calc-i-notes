@@ -1,0 +1,51 @@
+Approximate the values of functions by using tangent lines.
+
+  
+Find the linear approximation of f(x)= cube root of x when x = 8.
+
+Choose the following
+
+a.)
+L left parenthesis x right parenthesis equals 2 plus 4 over 3 left parenthesis x minus 8 right parenthesis
+
+b.)
+L left parenthesis x right parenthesis equals 2 plus 1 over 12 left parenthesis x minus 8 right parenthesis
+
+c.)
+L left parenthesis x right parenthesis equals 2 plus 1 over 6 left parenthesis x minus 8 right parenthesis
+
+d.)
+L left parenthesis x right parenthesis equals 2 minus 4 over 3 left parenthesis x minus 8 right parenthesis
+To find the linear approximation of the function f(x) = cube root of x when x = 8, we can use the formula:
+
+L(x) = f(a) + f'(a)(x - a)
+
+where L(x) is the equation of the tangent line, f(a) is the value of the function at the point a, f'(a) is the derivative of the function at the point a, and x is a variable.
+
+In this case, the point is (a, f(a)) = (8, cube root of 8). The derivative of the function is f'(x) = 1 / (3 * x^(2/3)), so the derivative at the point a is f'(8) = 1 / (3 * 8^(2/3)) = 1/12.
+
+Substituting these values into the formula, we get:
+
+L(x) = cube root of 8 + 1/12(x - 8)
+
+This simplifies to:
+
+L(x) = 2 + 1/12(x - 8)
+
+Therefore, the linear approximation of the function when x = 8 is L(x) = (b) 2 + 1/12(x - 8).
+
+
+
+
+so do you think L(x)=2+1/12(x-8) is correct?
+Yes, L(x) = 2 + 1/12(x - 8) is the correct linear approximation of the function f(x) = cube root of x when x = 8.
+
+To find the linear approximation of a function at a given point, we can use the tangent line to the function at that point. The tangent line is a straight line that touches the function at that point and has the same slope as the function at that point.
+
+To find the equation of the tangent line, we can use the formula:
+
+L(x) = f(a) + f'(a)(x - a)
+
+where L(x) is the equation of the tangent line, f(a) is the value of the function at the point a, f'(a) is the derivative of the function at the point a, and x is a variable.
+
+In this case, we have used this formula to find the linear approximation L(x) of the function f(x) = cube root of x at the point (a, f(a)) = (8, cube root of 8). The derivative of the function is f'(x) = 1 / (3 * x^(2/3)), and the derivative at the point a is f'(8) = 1 / (3 * 8^(2/3)) = 1/12. Substituting these values into the formula gives us L(x) = 2 + 1/12(x - 8).

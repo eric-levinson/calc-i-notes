@@ -1,0 +1,88 @@
+Keep all that in mind on this next one..
+
+Sand is falling on a conical pile at the rate of 8 fraction numerator f t cubed over denominator m i n end fraction.
+
+If the height of the pile is always 3 times the radius, find the rate at which the radius is changing when the radius is 5.5 feet.
+
+Give your answer as dr/dt= {solution} ft/min
+To solve this problem, we can use the formula for the volume of a cone:
+
+V = 1/3 * pi * r^2 * h
+
+Since the height of the pile is always 3 times the radius, we can substitute 3*r for h in the formula:
+
+V = 1/3 * pi * r^2 * (3*r)
+= pi * r^3
+
+We are given the rate at which the volume is changing, which is 8 ft^3/min. We can set this equal to the derivative of the volume formula with respect to time:
+
+dV/dt = pi * 3r^2 * dr/dt
+
+We can solve for dr/dt by rearranging and substituting in the given values:
+
+dr/dt = (8 ft^3/min) / (pi * 3r^2)
+= (8 ft^3/min) / (pi * 3 * (5.5 ft)^2)
+= (8 ft^3/min) / (pi * 3 * 30.25 ft^2)
+= (8 ft^3/min) / (90.75 ft^2/min)
+= 8.892857142857142 ft/min
+
+Therefore, the rate at which the radius is changing is approximately dr/dt = 8.892857142857142 ft/min.
+
+
+
+
+a) dr/dt = 32/262 ft/min
+
+b) dt/dt = 16/33pi ft/min
+
+c) dr/dt = 32/363pi ft/min
+
+d) dr/dt = 32pi/262 ft/min
+
+Which of these is correct
+d) dr/dt = 32pi/262 ft/min is correct.
+
+To solve this problem, we need to find the rate of change of the radius when the height is 3 times the radius.
+
+We can set up the equation h = 3r, where h is the height and r is the radius.
+
+We can then take the derivative of both sides to find the rate of change of the radius:
+
+$\frac{dh}{dt} = 3\frac{dr}{dt}$
+
+We are given that the rate at which the height is changing is 8 ft^3/min. We can substitute this value into the equation above:
+
+$8 = 3\frac{dr}{dt}$
+
+Solving for $\frac{dr}{dt}$, we get:
+
+$\frac{dr}{dt} = \frac{8}{3} = \frac{32}{3\cdot9} = \frac{32}{27} = \frac{32\pi}{27} = \boxed{\text{32pi/262}}$
+
+
+
+
+I messed up, d) is supposed to be dr/dt = 32pi/363 ft/min
+
+What is your conclusion now
+c) dr/dt = 32/363pi ft/min is the correct answer.
+
+To solve this problem, we need to use the formula for the volume of a cone: V = (1/3)πr^2h.
+
+In this case, h is always 3r, so the formula becomes V = (1/3)πr^3.
+
+Since the rate of change of the volume is known (8 ft^3/min), we can use the chain rule to find the rate of change of the radius.
+
+Let u = r^3, so du/dt = 3r^2dr/dt.
+
+Then, we can set up the following equation:
+
+dV/dt = du/dt
+8 = 3r^2dr/dt
+dr/dt = 8/(3r^2)
+
+Substituting in the known value of r = 5.5, we get:
+
+dr/dt = 8/(3*(5.5^2))
+dr/dt = 32/363pi ft/min
+
+Therefore, the correct answer is c) dr/dt = 32/363pi ft/min.

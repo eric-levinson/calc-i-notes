@@ -1,0 +1,19 @@
+Find the derivative of a function using the quotient rule.
+
+  
+Find the derivative of f left parenthesis x right parenthesis equals fraction numerator 9 x plus 12 over denominator 11 sin x end fraction.
+
+Choose the following:
+
+a.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator short dash 9 sin x plus 9 x cos x minus 12 cos x over denominator 11 sin squared x end fraction
+
+b.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 9 sin x minus 9 x cos x minus 12 cos x over denominator 11 sin squared x end fraction
+
+c.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 9 over denominator 11 cos x end fraction
+
+d.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 9 sin x minus 9 x cos x plus 12 cos x over denominator 11 sin squared x end fraction
+

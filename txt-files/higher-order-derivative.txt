@@ -1,0 +1,36 @@
+
+Compute and interpret 2nd, 3rd, etc. derivatives of a function.
+
+  
+Find the second derivative of y equals 6 x cos x.
+
+Choose from  the following:
+
+a.)
+fraction numerator d squared y over denominator d x squared end fraction equals short dash 12 sin x plus 6 x cos x
+
+b.)
+fraction numerator d squared y over denominator d x squared end fraction equals short dash 6 cos x
+
+c.)
+fraction numerator d squared y over denominator d x squared end fraction equals 6 cos x
+
+d.)
+fraction numerator d squared y over denominator d x squared end fraction equals short dash 12 sin x minus 6 x cos x
+To find the second derivative of the function y = 6xcos(x), we can use the chain rule.
+
+-------------------------------------
+
+The first derivative of y is given by:
+
+y' = 6cos(x) - 6xsin(x)
+
+The second derivative of y is given by:
+
+y'' = -12sin(x) - 6xcos(x)
+
+So the correct answer is:
+
+y'' = -12 sin x minus 6 x cos x
+
+Therefore, the correct answer is (d).

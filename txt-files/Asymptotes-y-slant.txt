@@ -1,0 +1,7 @@
+Asymptotes y slant
+
+
+https://www.symbolab.com/solver/function-concavity-calculator/asymptotes%20f%5Cleft(x%5Cright)%3D%20%5Cleft(3x%5E%7B2%7D%20%2B%205x%20-%202%5Cright)%20%2F%20%5Cleft(x%20%2B%204%5Cright)?or=input
+
+
+this gave me the correct y value

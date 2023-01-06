@@ -1,0 +1,20 @@
+firstly get the average of the integral
+
+symbolab: function average {f(x)= whatever}, 0, 3
+
+then get the average of the derivative
+function\:average\:f\left(x\right)=2x^2+1,\:0,\:3
+https://www.symbolab.com/solver/function-average-calculator/function%20average%20f%5Cleft(x%5Cright)%3D2x%5E%7B2%7D%2B1%2C%200%2C%203?or=input
+
+
+
+Take that average value and plug it in to simplify
+2c^2+1=7
+https://www.symbolab.com/solver/function-asymptotes-calculator/2c%5E%7B2%7D%2B1%3D7?or=input
+
+
+keep in mind there could be MULTIPLE answer that get combined on the exam
+
+eg c= sqrt(-3), c= sqrt(3)
+
+and they would call that Sqrt(+-3) or some shit like that

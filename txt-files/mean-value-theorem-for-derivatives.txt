@@ -1,0 +1,38 @@
+Graphically and using derivatives, find the values guaranteed to exist by The Mean Value Theorem for Derivatives.
+
+  
+Determine if the conditions of the mean value theorem are met by the function f left parenthesis x right parenthesis equals x cubed plus 2 x on left square bracket short dash 1 comma space 1 right square bracket. If so, find the values of c in left parenthesis short dash 1 comma space 1 right parenthesis guaranteed by the theorem.
+
+a.)
+f left parenthesis x right parenthesis is a polynomial and therefore is continuous on left square bracket short dash 1 comma space 1 right square bracket and differentiable on the interval left parenthesis short dash 1 comma space 1 right parenthesis.
+
+The value guaranteed by the mean value theorem is c equals 29.
+
+b.)
+f left parenthesis x right parenthesis is a polynomial and therefore is continuous on left square bracket short dash 1 comma space 1 right square bracket and differentiable on the interval left parenthesis short dash 1 comma space 1 right parenthesis.
+
+The value guaranteed by the mean value theorem is c equals fraction numerator square root of 3 over denominator 3 end fraction.
+
+c.)
+f left parenthesis x right parenthesis is a polynomial and therefore is continuous on left square bracket short dash 1 comma space 1 right square bracket and differentiable on the interval left parenthesis short dash 1 comma space 1 right parenthesis.
+
+The values guaranteed by the mean value theorem are c equals short dash fraction numerator square root of 3 over denominator 3 end fraction and c equals fraction numerator square root of 3 over denominator 3 end fraction.
+
+d.)
+f left parenthesis x right parenthesis is a polynomial and therefore is continuous on left square bracket short dash 1 comma space 1 right square bracket and differentiable on the interval left parenthesis short dash 1 comma space 1 right parenthesis.
+
+The value guaranteed by the mean value theorem is c equals 2.
+
+
+
+
+
+--------------------
+Based on the information provided, the correct statement is:
+
+c.)
+f(x) is a polynomial and therefore is continuous on [-1, 1] and differentiable on the interval (-1, 1).
+
+The values guaranteed by the mean value theorem are c = -sqrt(3)/3 and c = sqrt(3)/3.
+
+This is correct because a polynomial is continuous on any interval and differentiable on any interval. The mean value theorem guarantees the existence of at least one value c in the interval (-1, 1) such that f'(c) = (f(1) - f(-1)) / (1 - (-1)). The specific values of c are found by solving the equation f'(c) = (f(1) - f(-1)) / (1 - (-1)) for c. The other statements are not correct because they do not accurately reflect the requirements or conclusions of the mean value theorem.

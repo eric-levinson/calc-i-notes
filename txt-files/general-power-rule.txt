@@ -1,0 +1,18 @@
+Compute the derivative of a function of the form (f(x))ⁿ.
+
+  
+Find the derivative of f left parenthesis x right parenthesis equals cube root of 8 x cubed plus 27 end root.
+
+Choose from the following
+
+a.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 1 over denominator 3 left parenthesis 24 x squared right parenthesis to the power of begin display style 2 over 3 end style end exponent end fraction
+
+b.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 8 x squared over denominator left parenthesis 8 x cubed plus 27 right parenthesis to the power of begin display style 2 over 3 end style end exponent end fraction
+
+c.)
+f apostrophe left parenthesis x right parenthesis equals 2
+
+d.)
+f apostrophe left parenthesis x right parenthesis equals fraction numerator 1 over denominator 3 left parenthesis 8 x cubed plus 27 right parenthesis to the power of begin display style 2 over 3 end style end exponent end fraction

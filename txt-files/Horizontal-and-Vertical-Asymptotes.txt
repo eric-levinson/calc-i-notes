@@ -1,0 +1,9 @@
+Horizontal and Vertical Asymptotes
+
+https://www.symbolab.com/solver/function-concavity-calculator/asymptotes%20f%5Cleft(x%5Cright)%3D%20%5Cleft(3x%5E%7B2%7D%20%2B%2014x%20%2B%208%5Cright)%20%2F%20%5Cleft(x%5E%7B2%7D%20%2B%202x%20-%208%5Cright)?or=input
+
+
+Determine horizontal and/or vertical asymptotes of a function, if it exists, by using limits.
+
+  
+Determine all the vertical asymptotes of f(x) = (3x^2 + 14x + 8) / (x^2 + 2x - 8)

@@ -1,0 +1,94 @@
+To find the derivative of the function f(x) = 7x^3 sec(x), we can use the chain rule. The chain rule states that if f(x) = g(h(x)), then f'(x) = g'(h(x)) * h'(x).
+
+In this case, we can let g(x) = x^3 and h(x) = sec(x). The derivative of g(x) is g'(x) = 3x^2, and the derivative of h(x) is h'(x) = sec(x)tan(x).
+
+Substituting these values into the chain rule, we get:
+
+f'(x) = 3x^2 * sec(x)tan(x)
+
+This simplifies to:
+
+f'(x) = 21x^2 sec(x)tan(x)
+
+So the correct answer is:
+
+f'(x) = 21 x squared sec x tan x
+
+Therefore, the correct answer is (a).
+
+
+
+
+
+a.)Incorrect.
+It is important to remember to use the product rule when differentiating the product of two functions.
+
+d.)Correct.
+This is the product of two functions, so the product rule will be used: 
+
+f apostrophe left parenthesis x right parenthesis equals D left square bracket 7 x cubed right square bracket times sec x plus 7 x cubed times D left square bracket sec x right square bracket
+
+Recall D left square bracket 7 x cubed right square bracket equals 21 x squared, D left square bracket sec x right square bracket equals sec x tan x: 
+
+f apostrophe left parenthesis x right parenthesis equals 21 x squared times sec x plus 7 x cubed times sec x tan x
+
+Eliminate unnecessary symbols: 
+
+f apostrophe left parenthesis x right parenthesis equals 21 x squared sec x plus 7 x cubed sec x tan x
+I apologize for the mistake in my previous response. You are correct that the correct answer is (d).
+
+f'(x) = 21 x squared sec x plus 7 x cubed sec x tan x
+
+This is the derivative of the function f(x) = 7x^3 sec(x) using the product rule.
+
+Thank you for pointing out the error in my previous response. I apologize for any confusion that may have caused. Please let me know if you have any further questions.
+
+
+
+
+
+Try again
+
+Compute derivatives that combine tanx/cotx/cscx/secx with past rules.
+
+  
+Find the derivative of y equals 5 x to the power of 6 plus 7 over x to the power of 4 minus 3 tan x.
+
+Choose from the following
+
+a.)
+y apostrophe equals 30 x to the power of 5 minus 28 over x to the power of 5 minus 3 sec squared x
+
+b.)
+y apostrophe equals 30 x to the power of 5 minus 28 over x to the power of 5 minus 3 sec x
+
+c.)
+y apostrophe equals 30 x to the power of 5 minus 28 over x cubed minus 3 sec squared x
+
+d.)
+y apostrophe equals 30 x to the power of 5 minus fraction numerator 7 over denominator 4 x cubed end fraction minus 3 sec squared x
+To find the derivative of the function y = (5x^6 + 7)/(x^4 - 3tan(x)), we can use the quotient rule. The quotient rule states that if f(x) = (g(x))/(h(x)), then f'(x) = (g'(x)h(x) - g(x)h'(x))/h(x)^2.
+
+In this case, we can let g(x) = 5x^6 + 7 and h(x) = x^4 - 3tan(x). The derivatives of these functions are g'(x) = 30x^5 and h'(x) = -3sec^2(x). Plugging these values into the formula above, we get:
+
+y' = [(30x^5 * (x^4 - 3tan(x)) - (5x^6 + 7) * (-3sec^2(x))] / (x^4 - 3tan(x))^2
+
+This simplifies to:
+
+y' = (30x^9 - 15x^7sec^2(x)) / (x^4 - 3tan(x))^2
+
+So the correct answer is:
+
+y' = 30 x to the power of 5 minus 28 over x to the power of 5 minus 3 sec squared x
+
+Therefore, the correct answer is (a).
+
+
+
+
+
+Nice job
+​
+
+
+

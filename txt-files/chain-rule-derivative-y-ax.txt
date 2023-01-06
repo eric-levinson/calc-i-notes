@@ -1,0 +1,29 @@
+Determine the derivative of a general exponential function.
+
+f(x) = 4x^3*13^-2x
+
+Choose from the following
+
+a.)
+f apostrophe left parenthesis x right parenthesis equals 12 x squared times 13 to the power of short dash 2 x end exponent
+
+b.)
+f apostrophe left parenthesis x right parenthesis equals 12 x squared times 13 to the power of short dash 2 x end exponent minus 8 x cubed times 13 to the power of short dash 2 x end exponent
+
+c.)
+f apostrophe left parenthesis x right parenthesis equals 12 x squared times 13 to the power of short dash 2 x end exponent minus 8 x cubed times 13 to the power of short dash 2 x end exponent ln 13
+
+d.)
+f apostrophe left parenthesis x right parenthesis equals short dash 24 x squared times 13 to the power of short dash 2 x end exponent ln 13
+
+To find the derivative of the given function, we can use the power rule for derivatives, which states that if f(x) = x^n, then f'(x) = n*x^(n-1).
+
+Applying this rule to the function f(x) = 4x^3*13^-2x, we get:
+
+f'(x) = 43x^213^-2x + 4x^3(-2)*13^(-2x)*ln(13)
+
+Simplifying this expression, we get:
+
+f'(x) = 12x^213^-2x - 8x^313^-2x*ln(13)
+
+This means the correct answer is (b) f'(x) = 12 x squared times 13 to the power of short dash 2 x end exponent minus 8 x cubed times 13 to the power of short dash 2 x end exponent.

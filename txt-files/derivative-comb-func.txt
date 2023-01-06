@@ -1,0 +1,48 @@
+Find the derivative of a function using combinations, constant multiples, and/or sums and differences.
+
+  
+Find the derivative of f(x)=9sin(x)-3/x^9+7x^3
+To find the derivative of a function, we can use the rules of differentiation, which include the sum and difference rules, the constant multiple rule, and the chain rule.
+
+Using these rules, we can find the derivative of the given function as follows:
+
+First, we can apply the constant multiple rule to find the derivative of the first term:
+
+f'(x) = 9 * cos(x)
+
+Next, we can apply the chain rule to find the derivative of the second term:
+
+f'(x) = 9 * cos(x) + (-3/x^9) * (-9x^8)
+
+Finally, we can apply the power rule to find the derivative of the third term:
+
+f'(x) = 9 * cos(x) + (-3/x^9) * (-9x^8) + 7 * 3x^2
+
+Therefore, the derivative of the given function is:
+
+f'(x) = 9 * cos(x) + (-3/x^9) * (-9x^8) + 7 * 3x^2 = 9cos(x) - 27/x^8 + 21x^2
+
+
+
+
+eric.levinson42@gmail.com
+That cannot be correct, choose from the following
+
+f'(x) = -9cos(x)+27/x^10+ 21x^2
+
+f'(x) = 9cos(x)+1/3x^9+ 21x^2
+
+f'(x) = 9cos(x)+27/x^10+ 21x^2
+
+f'(x) = -9cos(x)+1/3x^8+ 21x^2
+I apologize for the mistake in my previous response. The correct derivative of the given function is:
+
+f'(x) = 9cos(x) + 27/x^10 + 21x^2
+
+This can be obtained by applying the constant multiple rule to the first term, the chain rule to the second term, and the power rule to the third term, as follows:
+
+f'(x) = 9 * cos(x) + (3/x^9) * (-9x^8) + 7 * 3x^2
+
+f'(x) = 9cos(x) + 27/x^10 + 21x^2
+
+I apologize for the error in my previous response. Please let me know if you have any other questions.

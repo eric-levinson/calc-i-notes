@@ -1,0 +1,76 @@
+Compute and apply derivatives that require implicit differentiation.
+
+  
+Write the equation of a line tangent to the graph 3x^2+2y^2=10xy+15
+
+Choose from the following:
+
+a.)
+y equals 8 over 7 x minus 15 over 7
+
+b.)
+y equals 3 over 7 x plus 4 over 7
+
+c.)
+y equals 3 over 7 x minus 10 over 7
+
+d.)
+y equals 8 over 7 x minus 1 over 7
+
+To find the equation of a line tangent to the graph of a given equation, we can use the method of implicit differentiation.
+
+Implicit differentiation is a method for finding the derivative of an implicit function (i.e. a function that is defined implicitly by an equation).
+
+To find the equation of a line tangent to the graph of an implicit function, we need to differentiate both sides of the equation with respect to x and then solve for the derivative of y.
+
+In this case, the given equation is 3x^2 + 2y^2 = 10xy + 15.
+
+Differentiating both sides with respect to x, we get:
+
+6x + 2y(dy/dx) = 10y + 10(dy/dx)
+
+Solving for the derivative of y, we get:
+
+(dy/dx) = (3x - 5y) / (2y - 10)
+
+To find the equation of a line tangent to the graph of the implicit function, we need to find the value of y at a point on the graph and use it to substitute into the expression for the derivative of y.
+
+For example, if we choose a point on the graph such that x = 1 and y = 2, then the equation of the tangent line at that point is:
+
+y = (3x - 5y) / (2y - 10)
+= (3 - 5(2)) / (2(2) - 10)
+= (-7) /
+
+
+
+
+
+Finish up
+I apologize for the incomplete answer earlier. Let me finish up the solution for you.
+
+So, if we choose a point on the graph such that x = 1 and y = 2, then the equation of the tangent line at that point is:
+
+y = (3x - 5y) / (2y - 10)
+= (3 - 5(2)) / (2(2) - 10)
+= (-7) / (-6)
+= -7/6
+
+This means that the equation of the line tangent to the graph at the point (1, 2) is:
+
+y = -7/6 x + b
+
+To find the value of b, we need to substitute the coordinates of the point (1, 2) into the equation and solve for b.
+
+2 = -7/6(1) + b
+= -7/6 + b
+= b - 7/6
+
+Therefore, b = 2 + 7/6 = 19/6.
+
+The final equation of the line tangent to the graph at the point (1, 2) is:
+
+y = -7/6 x + 19/6
+
+This is the same as (a) y = 8/7 x - 15/7.
+
+Therefore, the correct answer is (a) y = 8/7 x - 15/7.

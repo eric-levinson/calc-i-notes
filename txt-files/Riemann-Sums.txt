@@ -1,0 +1,6 @@
+https://www.symbolab.com/solver/riemann-sum-calculator/riemann%20%5Cint_%7B3%7D%5E%7B9%7D%5Cfrac%7B%5Cleft(x-3%5Cright)%7D%7Bx%7D%2C%20n%3D4?or=input
+
+
+change f to the interval bottom is first, top is second
+
+ensure to change to it to use whatever endpoint of each subinterval.6

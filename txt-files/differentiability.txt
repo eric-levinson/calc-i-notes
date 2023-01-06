@@ -1,0 +1,17 @@
+Keeping that in mind
+
+Determine if the function f left parenthesis x right parenthesis equals cube root of x is differentiable at x equals short dash 8. If not, identify why.
+
+Choose from the following
+
+a.)
+f left parenthesis x right parenthesis equals cube root of x is not differentiable at x equals short dash 8 because  limit as x rightwards arrow short dash 8 of cube root of x does not exist.
+
+b.)
+f left parenthesis x right parenthesis equals cube root of x is not differentiable at x equals short dash 8 because f left parenthesis short dash 8 right parenthesis is not defined.
+
+c.)
+f left parenthesis x right parenthesis equals cube root of x is differentiable at x equals short dash 8.
+
+d.)
+f left parenthesis x right parenthesis equals cube root of x is not differentiable at x equals short dash 8 because f apostrophe left parenthesis short dash 8 right parenthesis is not defined.

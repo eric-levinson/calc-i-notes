@@ -1,0 +1,46 @@
+Calculate the differential of a function using derivatives.
+
+  
+Let y=ln(3x^4+6x^2+2)
+
+Find the differential, dy.
+
+Choose from the following:
+
+
+a.)
+d y equals fraction numerator 12 x cubed plus 12 x over denominator 3 x to the power of 4 plus 6 x squared plus 2 end fraction d x
+
+b.)
+d y equals fraction numerator 1 over denominator 3 x to the power of 4 plus 6 x squared plus 2 end fraction d x
+
+c.)
+d y equals fraction numerator 1 over denominator 3 x to the power of 4 plus 6 x squared plus 2 end fraction
+
+d.)
+d y equals fraction numerator 12 x cubed plus 12 x over denominator 3 x to the power of 4 plus 6 x squared plus 2 end fraction
+The differential of a function is defined as the derivative of the function multiplied by the differential of the variable.
+
+In this case, the function is y = ln(3x^4 + 6x^2 + 2), and the variable is x. The differential of the variable is dx.
+
+To find the differential of the function, we first need to find the derivative of the function. The derivative of the function y = ln(u) with respect to x is given by:
+
+y' = 1/u * u'
+
+where u is a function of x.
+
+Substituting the expression for y into this formula, we get:
+
+y' = 1/(3x^4 + 6x^2 + 2) * (12x^3 + 12x)
+
+This simplifies to:
+
+y' = (12x^3 + 12x) / (3x^4 + 6x^2 + 2)
+
+Therefore, the differential of the function is:
+
+dy = y' * dx = (12x^3 + 12x) / (3x^4 + 6x^2 + 2) * dx
+
+The differential dy is the derivative of the function multiplied by the differential of the variable.
+
+Therefore, the answer is (a) dy = (12x^

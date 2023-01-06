@@ -1,0 +1,18 @@
+Find the derivative of a function using the product rule.
+
+  
+Find the derivative of f left parenthesis x right parenthesis equals 4 sin x cos x minus 5 sin x.
+
+Choose from the following
+
+a.)
+f left parenthesis x right parenthesis equals short dash 4 sin x cos x minus 5 cos x
+
+b.)
+f left parenthesis x right parenthesis equals short dash 4 sin x cos x plus 5 cos x
+
+c.)
+f apostrophe left parenthesis x right parenthesis equals short dash 4 cos squared x plus 4 sin squared x plus 5 cos x
+
+d.)
+f apostrophe left parenthesis x right parenthesis equals 4 cos squared x minus 4 sin squared x minus 5 cos x

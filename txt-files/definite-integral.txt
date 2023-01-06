@@ -1,0 +1,30 @@
+Given \int _{-3}^2\:f\left(x\right)dx=-10 and \int _{2}^5\:f\left(x\right)dx=7
+
+find the following
+
+\int _{-3}^5\:3f\left(x\right)dx
+
+
+
+
+
+
+
+To find the value of the integral ∫_{-3}^5 3f(x) dx, we can use the following property of integrals:
+
+∫_a^b f(x) dx + ∫_b^c f(x) dx = ∫_a^c f(x) dx
+
+This property states that the integral of a function over the interval [a, c] is equal to the sum of the integrals of the function over the intervals [a, b] and [b, c].
+
+In this case, we are given that ∫_{-3}^2 f(x) dx = -10 and ∫_2^5 f(x) dx = 7, and we want to find ∫_{-3}^5 3f(x) dx. We can use the property above to rewrite the integral as:
+
+∫_{-3}^5 3f(x) dx = ∫_{-3}^2 3f(x) dx + ∫_2^5 3f(x) dx
+
+Substituting the given values, we get:
+
+∫_{-3}^5 3f(x) dx = 3 * (-10) + 3 * 7 = -30 + 21 = -9
+
+Therefore, the value of the integral ∫_{-3}^5 3f(x) dx is -9.
+
+
+

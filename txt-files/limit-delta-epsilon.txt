@@ -1,0 +1,41 @@
+Consider the following limit statement:
+
+limit as x rightwards arrow 3 of left parenthesis 4 x minus 7 right parenthesis equals 5
+
+Find the corresponding value of delta when epsilon equals 0.005.
+
+-------
+
+
+RATIONALE
+If epsilon equals 0.005, this means we want open vertical bar 4 x minus 7 minus 5 close vertical bar less than 0.005.
+
+Simplify:
+
+open vertical bar 4 x minus 12 close vertical bar less than 0.005
+
+open vertical bar x close vertical bar less than a means short dash a less than x less than a, so we can say: 
+
+short dash 0.005 less than 4 x minus 12 less than 0.005
+
+Add 12 to all three parts: 
+
+11.995 less than 4 x less than 12.005
+
+Divide all three parts by 4: 
+
+2.99875 less than x less than 3.00125
+
+Subtract 3 from all three parts to get x minus 3 in the middle: 
+
+short dash 0.00125 less than x minus 3 less than 0.00125
+
+Thus, delta equals 0.00125.
+
+
+---------
+
+The Intuitive Approach
+https://app.sophia.org/spcc/calculus-i/study-guide/unit2/12821
+https://www.symbolab.com/solver/complex-equation-calculator/%5Cleft%7C4x-7-5%5Cright%7C%3C0.005?or=input
+Gets you most of the way there, but you have to do some simplifying to get the final answer.

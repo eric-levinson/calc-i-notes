@@ -1,0 +1,6 @@
+L'Hopital's Rule
+
+https://www.symbolab.com/solver/function-concavity-calculator/%5Clim_%7Bx%5Cto0%7D%5Cleft(%5Cfrac%7B%5Cleft(e%5E%7B5x%7D-1%5Cright)%7D%7B3x%7D%5Cright)?or=input
+
+
+just put it in the calculator and it will give you the answer.

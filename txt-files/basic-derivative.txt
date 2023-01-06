@@ -1,0 +1,3 @@
+Compute the derivative of f(x) = x^n, sin(x), cos(x), and absolute value functions.
+
+Find the derivative of g(x)=1/x^9

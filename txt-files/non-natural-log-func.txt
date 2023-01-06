@@ -1,0 +1,58 @@
+Determine the derivative of a non-natural logarithmic function.
+
+  
+Find the derivative of y=log_2(3x^2/cos(x))
+
+Choose from the following
+
+a.)
+fraction numerator d y over denominator d x end fraction equals fraction numerator 2 over denominator x ln 2 end fraction plus fraction numerator tan x over denominator ln 2 end fraction
+
+b.)
+fraction numerator d y over denominator d x end fraction equals fraction numerator 2 over denominator x ln 2 end fraction plus fraction numerator 1 over denominator ln 2 times cos x end fraction
+
+c.)
+fraction numerator d y over denominator d x end fraction equals 2 over x plus fraction numerator 1 over denominator cos x end fraction
+
+d.)
+fraction numerator d y over denominator d x end fraction equals 2 over x plus tan x
+
+To find the derivative of the function y = log_2(3x^2/cos(x)), we can use the chain rule.
+
+The chain rule states that if y = f(u) and u = g(x), then the derivative of y with respect to x is given by:
+
+dy/dx = (dy/du)(du/dx)
+
+In this case, we can let u = 3x^2 and f(u) = log_2(u). Then, the derivative of y with respect to x is:
+
+dy/dx = (dy/du)(du/dx) = (1/(uln(2)))(6x) = (6x)/(3x^2ln(2)) = 2/x*ln(2)
+
+We can also let u = cos(x) and f(u) = 1/u. Then, the derivative of y with respect to x is:
+
+dy/dx = (dy/du)(du/dx) = (-1/u^2)(-sin(x)) = (sin(x))/(cos(x))^2 = tan(x)
+
+Therefore, the derivative of y with respect to x is:
+
+dy/dx = (2/x*ln(2)) + tan(x)
+
+The correct answer is therefore (a) fraction numerator d y over denominator d x equals fraction numerator 2 over denominator x ln 2 end fraction plus fraction numerator tan x over denominator ln 2 end fraction.
+
+
+
+
+So that's the same as dy/dx = (2x/x*ln(2))+(tan(x)/ln(2)) ?
+No, that is not correct. The derivative of y with respect to x is:
+
+dy/dx = (2/x*ln(2)) + tan(x)
+
+This can be written as:
+
+dy/dx = (2/xln(2)) + (tan(x)/ln(2))
+
+But it cannot be written as:
+
+dy/dx = (2x/xln(2)) + (tan(x)/ln(2))
+
+because this would mean that the derivative is equal to (2/ln(2)) + (tan(x)/ln(2)), which is not the same as the original expression.
+
+It's important to pay attention to the order of operations and the use of parentheses when simplifying and manipulating mathematical expressions.

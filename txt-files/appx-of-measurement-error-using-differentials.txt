@@ -1,0 +1,46 @@
+Approximate the error in calculations using differentials.
+
+  
+A box in the shape of a cube is to be manufactured with side lengths of 54 cm.
+
+Use differentials to estimate the maximum error in the calculated volume of the box if the possible error in measuring the side is 0.5 cm.
+
+
+
+Choose from the following:
+
+a.)
+81 space c m cubed
+
+b.)
+8748 space c m cubed
+
+c.)
+4374 space c m cubed
+
+d.)
+2187 space c m cubed
+
+To estimate the maximum error in the calculated volume of a box using differentials, we can use the formula:
+
+Error = |dV|
+
+where dV is the differential of the volume of the box and | | denotes the absolute value.
+
+The volume of a box in the shape of a cube is given by the formula:
+
+V = s^3
+
+where s is the length of one side of the cube.
+
+The differential of the volume with respect to s is given by:
+
+dV = 3s^2 * ds
+
+Substituting the values given in the problem, we get:
+
+Error = |3 * 54^2 * 0.5| = |3 * 2916 * 0.5| = |4374| = (c) 4374 cm^3.
+
+This is the maximum error in the calculated volume of the box if the possible error in measuring the side is 0.5 cm.
+
+Note that the differential gives an estimate of the maximum error, but it does not give the actual error in the calculation. The actual error will depend on the actual measurement error in the side length of the box.

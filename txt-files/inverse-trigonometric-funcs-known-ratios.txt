@@ -1,0 +1,30 @@
+Evaluate inverse trigonometric functions for known ratios.
+
+  
+Try again
+
+Find the exact value of arcsin(- sqrt(3)/2 )
+
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses.
+
+Use a test taking strategy to determine the correct answer from the choices below.
+
+Do not use math.
+
+a.)
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses equals fraction numerator 4 straight pi over denominator 3 end fraction
+
+b.)
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses equals short dash straight pi over 3
+
+c.)
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses equals straight pi over 3
+
+d.)
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses equals short dash straight pi over 6
+
+The correct answer is b.)
+
+arcsin open parentheses short dash fraction numerator square root of 3 over denominator 2 end fraction close parentheses equals short dash straight pi over 3
+
+The range of the arcsin function is from -pi/2 to pi/2, and the value -sqrt(3)/2 is in the negative range. Therefore, the value of arcsin(-sqrt(3)/2) is -pi/3.

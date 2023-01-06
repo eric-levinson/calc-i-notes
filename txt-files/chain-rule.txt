@@ -1,0 +1,38 @@
+Apply the chain rule to determine the derivative of a composite function.
+
+  
+Find the derivative of y equals tan open parentheses 9 x to the power of 4 plus 1 close parentheses.
+
+Choose from the following
+
+a.)
+fraction numerator d y over denominator d x end fraction equals 36 x cubed sec squared open parentheses 9 x to the power of 4 plus 1 close parentheses
+
+b.)
+fraction numerator d y over denominator d x end fraction equals sec squared open parentheses 36 x cubed close parentheses
+
+c.)
+fraction numerator d y over denominator d x end fraction equals 36 x cubed sec open parentheses 9 x to the power of 4 plus 1 close parentheses
+
+d.)
+fraction numerator d y over denominator d x end fraction equals sec squared open parentheses 9 x to the power of 4 plus 1 close parentheses
+
+
+
+------
+
+
+
+To find the derivative of the function y = tan(9x^4 + 1), we can use the chain rule.
+
+The chain rule states that if y = f(g(x)), then y' = f'(g(x))*g'(x).
+
+In this case, we can let f(x) = tan(x) and g(x) = 9x^4 + 1. The derivatives of these functions are f'(x) = sec^2(x) and g'(x) = 36x^3. Plugging these values into the chain rule formula above, we get:
+
+y' = sec^2(9x^4 + 1) * 36x^3
+
+This simplifies to:
+
+y' = 36 x cubed sec squared open parentheses 9 x to the power of 4 plus 1 close parentheses
+
+Therefore, the correct answer is (a).

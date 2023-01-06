@@ -1,0 +1,10 @@
+RATIONALE
+Looking at the graph we see that the line is tangent to the curve at the point left parenthesis 0 comma 1 right parenthesis.
+
+In order to estimate the slope of a line, two points are needed. Thus, we need another point on the line besides left parenthesis 0 comma 1 right parenthesis to estimate the slope of this line.
+
+Inspecting closely, it looks like the point left parenthesis 4 comma 4 right parenthesis is also contained on the line.
+
+Thus, the slope of the tangent line is approximately:
+
+m equals fraction numerator 4 minus 1 over denominator 4 minus 0 end fraction equals 3 over 4.

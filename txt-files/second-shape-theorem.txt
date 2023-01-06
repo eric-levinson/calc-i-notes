@@ -1,0 +1,7 @@
+Second Shape Theorem
+Use values of f' to sketch the graph of f and state whether f is increasing or decreasing at a point.
+
+  
+Determine the intervals over which f left parenthesis x right parenthesis equals x to the power of 4 minus 4 x cubed plus 12  is increasing or decreasing.
+
+Used calculator from MS to analyze this function

@@ -1,0 +1,3 @@
+inflection points:
+
+I used symbolab inflection point calculator to solve this

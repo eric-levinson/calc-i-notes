@@ -1,0 +1,20 @@
+Graphically and using derivatives, find the values guaranteed to exist by Rolle’s theorem.
+
+  
+Determine if the requirements for Rolle’s theorem are met by the function f(x)=-x^3+27*x-5 on the interval [-1, 4]. If so, find the values of c in (-1, 4)
+Rolle's theorem states that if a function f(x) is continuous on the closed interval [a, b] and differentiable on the open interval (a, b), and if f(a) = f(b), then there exists at least one value c in the interval (a, b) such that f'(c) = 0.
+
+To determine if the requirements for Rolle's theorem are met for the function f(x) = -x^3 + 27*x - 5 on the interval [-1, 4], we can check the following:
+
+Is the function f(x) continuous on the interval [-1, 4]? Yes, the function is a polynomial, which is continuous on any interval.
+
+Is the function f(x) differentiable on the open interval (-1, 4)? Yes, the function is a polynomial of degree 3, which is differentiable on any interval.
+
+Does f(-1) = f(4)? No, f(-1) = -1^3 + 27*(-1) - 5 = -29 and f(4) = 4^3 + 27*4 - 5 = 65. Therefore, the requirements for Rolle's theorem are not met.
+
+If the requirements for Rolle's theorem are met, we can find the values of c in the interval (a, b) by setting the derivative of the function equal to 0 and solving for x. In this case, we would have:
+
+f'(x) = -3*x^2 + 27 = 0
+x = +/- sqrt(9) = +/- 3
+
+Since the interval (-1, 4) does not contain any values of c that satisfy the equation f'(c) = 0, there are no values of c in (-1, 4) guaranteed to exist by Rolle's theorem.
